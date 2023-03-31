@@ -1,0 +1,7 @@
+# UID
+
+2019150292
+
+2019 	1 		50292
+^^^^ 	^ 		^^^^^
+Ano	Trimestre	Cód. Município
